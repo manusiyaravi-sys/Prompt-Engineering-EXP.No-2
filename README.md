@@ -10,7 +10,7 @@ You are part of a content curation team for an educational platform that deliver
 
 AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
-~~~
+
 ZERO SHOT PROMPTING
 Question: “Explain the concept of cloud computing in simple words.”
 CHAT GPT
@@ -170,4 +170,4 @@ techniques provide more accurate and structured summaries compared to zero-shot 
 clarity of the summary. Therefore, choosing the appropriate prompting
 technique can significantly improve the quality of AI-generated text
 summarization.
-~~~
+
